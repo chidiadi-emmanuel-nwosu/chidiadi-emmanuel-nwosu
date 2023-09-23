@@ -22,12 +22,12 @@ Feel free to explore my repositories for more!
 -->
 ## 📚 Learning Journey
 
-Continuous learning is a core principle of mine. I'm currently exploring topics like machine learning, cloud computing, and software architecture.
+Continuous learning is a core principle of mine. I'm currently enrolled in a software engineering course with [ALX school](https://www.alxafrica.com/).
 
 ## 📫 Contact
 
-- **GitHub:** [Your GitHub Profile](https://github.com/chidiadi-emmanuel-nwosu)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/chidiadi-nwosu/)
+- **GitHub:** [chidiadi-emmanuel-nwosu](https://github.com/chidiadi-emmanuel-nwosu)
+- **LinkedIn:** [chidiadi-nwosu](https://www.linkedin.com/in/chidiadi-nwosu/)
 - **Email:** chidiadi.emmanuel.nwosu@gmail.com
 
 Let's connect and collaborate on exciting projects! If you have any questions, ideas, or just want to chat about tech, don't hesitate to reach out. I'm always open to new opportunities and challenges. 🚀
