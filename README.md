@@ -1,4 +1,4 @@
-# 👨‍💻 Chidiadi E. Nwosu | Software Engineer
+# 👨‍💻 Chidiadi Nwosu | Software Engineer
 
 Welcome to my GitHub profile! I'm passionate about coding, building software, and solving complex problems. With a diverse skill set and a hunger for learning, I'm always up for a new challenge.
 
